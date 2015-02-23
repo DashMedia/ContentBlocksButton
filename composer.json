@@ -1,0 +1,33 @@
+{
+    "name": "DashMedia/ContentBlocksButton",
+    "description": "A general button input for use with content blocks by ModMore",
+    "type": "modx-package",
+    "keywords": ["modx","contentblocks"],
+    "homepage": "https://github.com/DashMedia/ContentBlocksButton",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Jason Carney",
+            "email": "jason@dashmedia.com.au",
+            "homepage" : "https://dashmedia.com.au/"
+        }        
+    ],
+    "support": {
+        "email": "jason@dashmedia.com.au",
+        "issues": "https://github.com/DashMedia/ContentBlocksButton/issues",
+        "source": "https://github.com/DashMedia/ContentBlocksButton.git"
+    },    
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "classmap":["model/"]
+    },
+    "extra": {
+        "package_name": "ContentBlocksButton",
+        "namespace": "contentblocksbutton",
+        "version": "1.0.0",
+        "release": "pl",
+        "category":"Content Blocks Button"
+    }
+}

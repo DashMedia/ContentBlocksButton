@@ -1,0 +1,6 @@
+Changelog for ContentBlocksButton
+
+ContentBlocksButton 1.0.0-pl
+---------------------------------
+- Inital version
+- Uses craftsmancoding/repoman (https://github.com/craftsmancoding/repoman) for build
