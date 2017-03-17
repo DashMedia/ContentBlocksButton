@@ -1,12 +1,13 @@
-#ContentBlocksButton
+# ContentBlocksButton
 
-Requires [ContentBlocks](https://www.modmore.com/extras/contentblocks/) by the awesome guys at ModMore to be of any use to you.
+**THIS PROJECT IS ANTIQUATED**
 
-This extra adds a basic input type of button to ContentBlocks
+The best way to add a button input type to ContentBlocks:
+
+- Add a new field of type `link`
+- Add a setting to the field of type text
+  - Change the `Expose Field` value to `Expose field on canvas as a regular field`
+- Job done, you have a link input with a text input that can be used for the label
 
 Author: Jason <jason@dashmedia.com.au>
 Copyright 2015
-
-Official Documentation: https://github.com/dashmedia/ContentBlocksButton
-
-This extra is build using [Repoman](https://github.com/craftsmancoding/repoman)
